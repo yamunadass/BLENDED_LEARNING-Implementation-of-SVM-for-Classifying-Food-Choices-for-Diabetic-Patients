@@ -66,18 +66,18 @@ for C in C_values:
 ```
 
 ## Output:
-![alt text](o1.png)
 
-![alt text](o2.png)
+![image](https://github.com/user-attachments/assets/145db5f5-02ae-4643-92f5-3af09f28e0c1)
 
-![alt text](o3.png)
+![image](https://github.com/user-attachments/assets/66535041-dc4a-4c92-9ecf-2c5a9a687e93)
 
-![alt text](o4.png)
+![image](https://github.com/user-attachments/assets/aefb4a99-d358-4891-9d3c-6b918baf621d)
 
-![alt text](o5.png)
+![image](https://github.com/user-attachments/assets/124826cd-3aa0-4052-9a2e-46e38859a065)
 
-![alt text](o6.png)
+![image](https://github.com/user-attachments/assets/bdacf33e-f055-4ef9-a4b9-d7253a889fd4)
 
+![image](https://github.com/user-attachments/assets/ac971d88-8904-40cc-8bf8-ab05459e31e7)
 
 ## Result:
 Thus, the SVM model was successfully implemented to classify food items for diabetic patients, with hyperparameter tuning optimizing the model's performance.
